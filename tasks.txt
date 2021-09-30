@@ -1,0 +1,26 @@
+tips to do 
+-  when using the method 'find_drink' for menu class,
+   this is used to determine whether the user input is
+   a valid response. It'll return a menuitem object if 
+   it is a valid response. If not, it will return none.
+Steps
+-----------
+[X] Make 3 objects from the menuitem class
+
+[X] Print report
+    [X] ask user what would they like
+        'What would you like? (espresso/latte/cappuccino):'
+    [X] make a loop for if they type the correct wording
+        print out method for it being correct
+
+[] Check resources sufficient?
+    [] print out to check that resouces are sufficient
+    [] print out the ingredients of the item as well as the cost
+
+[] Process coins
+
+[] Check transaction successful?
+
+[] Make Coffee
+
+[] Make it loop
